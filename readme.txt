@@ -8,4 +8,5 @@ Git is free sofrware distributed under the GPL.
 
 Git has a mutable index called stage.
 
-first time 
+first time
+second time 
